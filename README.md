@@ -1,1 +1,1 @@
-# TurtleGraph-Spiral-Python
+Simple spiral using <b>Python Turtle module</b>
